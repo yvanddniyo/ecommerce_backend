@@ -40,3 +40,5 @@ module.exports = {
   verifyTokenAndAuthorization,
   verifyTokenAndAdmin
 }
+
+// this JWT used to secure our backend side btn user and admin
